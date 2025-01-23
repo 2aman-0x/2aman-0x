@@ -1,5 +1,3 @@
-## Hey Babe! 💋
-
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xyb3c2OWU1NjB0eHE1Zmc3eHp4enMycGN0bWhpbnlmeDhsOHFtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif"  />
 
 
