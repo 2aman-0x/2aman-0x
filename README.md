@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 </picture>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2aman-0x)](https://github.com/2aman-0x/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2aman-0x&show_icons=true)
+
+![elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=2aman-0x&show_icons=true)
