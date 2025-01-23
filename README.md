@@ -17,9 +17,6 @@
 
 ---
 
-![Elliots's GitHub stats](https://github-readme-stats.vercel.app/api?username=2aman-0x&show_icons=true&theme=highcontrast)
-
-
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=2aman-0x&show_icons=true&theme=chartreuse-dark&line_height=15" />
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=2aman-0x&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&line_height=0" />
 
