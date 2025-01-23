@@ -19,3 +19,6 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2aman-0x/2aman-0x/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/2aman-0x/2aman-0x/output/github-snake.svg" />
 </picture>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2aman-0x)](https://github.com/2aman-0x/github-readme-stats)
