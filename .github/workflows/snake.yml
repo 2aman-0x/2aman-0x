@@ -1,4 +1,4 @@
-name: GitHub Snake Game
+rename: GitHub Snake Game
 
 on:
   # Schedule the workflow to run daily at midnight UTC
@@ -35,7 +35,7 @@ jobs:
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ my_token }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
           # Optionally, you can set a custom commit message
