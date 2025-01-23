@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon&duration=2000&pause=1000&color=3BF700&width=435&lines=Hacking+the+world...;Encryption+is+key...;Stay+Safe,+stay+Anonymous...)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon&duration=2000&pause=1000&color=3BF700&width=435&lines=Hacking+the+world...;Encryption+is+key...;Stay+Safe,+stay+Anonymous...)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2aman-0x/2aman-0x/output/github-snake-dark.svg" />
