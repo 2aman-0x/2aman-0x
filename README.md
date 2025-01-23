@@ -20,7 +20,6 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="https://raw.githubusercontent.com/2aman-0x/2aman-0x/output/github-snake.svg" />
 </picture>
 
+---
 
-
-![elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=2aman-0x&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2aman-0x&show_icons=true&theme=highcontrast)
