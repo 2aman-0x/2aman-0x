@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=2aman-0x&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRvb2gweXZsOWZjbDA1NzBlZzB0cng2bW92cHRkdXE3b3pwbWV3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<img align="right" width="150" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRvb2gweXZsOWZjbDA1NzBlZzB0cng2bW92cHRkdXE3b3pwbWV3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=2aman-0x&show_icons=true&theme=chartreuse-dark&line_height=15" />
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=2aman-0x&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&line_height=0" />
 
