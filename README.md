@@ -12,5 +12,9 @@
 </picture>
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=2aman-0x&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
 ![Elliots's GitHub stats](https://github-readme-stats.vercel.app/api?username=2aman-0x&show_icons=true&theme=highcontrast)
