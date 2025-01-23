@@ -18,3 +18,5 @@
 ---
 
 ![Elliots's GitHub stats](https://github-readme-stats.vercel.app/api?username=2aman-0x&show_icons=true&theme=highcontrast)
+[![Elliot,s Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=2aman-0x)](https://github.com/2aman-0x/github-readme-activity-graph)
+[![Elliot's github activity graph](https://activity-graph.herokuapp.com/graph?username=2aman-0x&theme=react-dark)](https://github.com/2aman-0x/github-readme-activity-graph)
