@@ -18,7 +18,6 @@
 
 <img align="right" width="35%" height="35%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjEzaGM3b2IwM3NlZzVzNm9xMnhwOGg4cWZicDdscDZid210dzJxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif"  />
 
----
 
 <p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=2aman-0x&theme=highcontrast" alt="2aman-0x" /></p>
 
