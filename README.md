@@ -18,10 +18,10 @@
 
 ---
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=2aman-0x&show_icons=true&theme=chartreuse-dark&line_height=15" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=2aman-0x&show_icons=true&theme=chartreuse-dark&line_height=15" />
 
 ---
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=2aman-0x&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&line_height=0" /> 
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs?username=2aman-0x&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&line_height=0" /> 
 
 ---
