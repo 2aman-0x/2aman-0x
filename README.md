@@ -14,8 +14,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=2aman-0x&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
----
-
 <img align="right" width="50%" height="50%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjEzaGM3b2IwM3NlZzVzNm9xMnhwOGg4cWZicDdscDZid210dzJxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif"  />
 
 ---
