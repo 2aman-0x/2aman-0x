@@ -15,12 +15,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=2aman-0x&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-<div>
-<p><img align="right" width="50%" height="50%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjEzaGM3b2IwM3NlZzVzNm9xMnhwOGg4cWZicDdscDZid210dzJxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif"  /></p><br>
-<p><img align="left" width="50%" height="50%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWF2NDJxZnJqZWhheTZlOTZrZml4YzVyeDZueDN4cmQ3czRkenJxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qcQKOJ5YKF9kyKcrY/giphy.gif"  /></p>
-</div>
 
+<img align="right" width="50%" height="50%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjEzaGM3b2IwM3NlZzVzNm9xMnhwOGg4cWZicDdscDZid210dzJxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif"  />
 
+---
 
 <p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=2aman-0x&theme=highcontrast" alt="2aman-0x" /></p>
 
