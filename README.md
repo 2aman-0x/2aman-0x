@@ -15,12 +15,9 @@
 
 ---
 
-<img align="right" width="30%" height="30%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjEzaGM3b2IwM3NlZzVzNm9xMnhwOGg4cWZicDdscDZid210dzJxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif"  />
+<img align="right" width="30%" height="30%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDM2cmlhcjlndDlsazljdGZ2OTdqdXA0YXhyMHN4d3dldGNqN3cwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WOb8EeFziTQNE02WXs/giphy.gif"  />
 
 
 <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=2aman-0x&show_icons=true&theme=chartreuse-dark&line_height=15" />
-
-
-<img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=2aman-0x&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&line_height=0" /> 
 
 ---
