@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" width="30%" height="30%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDM2cmlhcjlndDlsazljdGZ2OTdqdXA0YXhyMHN4d3dldGNqN3cwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WOb8EeFziTQNE02WXs/giphy.gif"  />
+<img align="right" width="30%" height="30%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZtZGpkOWRyNXM0aGgzcjIyeWNyYThoazg2ZzA1cm9uYWloam81eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dmFXUZ5up1T896HP8B/giphy.gif"  />
 
 
 <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=2aman-0x&show_icons=true&theme=chartreuse-dark&line_height=15" />
