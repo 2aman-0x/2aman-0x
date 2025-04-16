@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/RDGnSn6zescp0Jn11Y/giphy.gif?cid=6c09b952077uwed5dzmu7mitppmvjqczk05rzqoe4b6ggizy&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+<img src= "https://media3.giphy.com/media/RDGnSn6zescp0Jn11Y/giphy.gif?cid=6c09b952077uwed5dzmu7mitppmvjqczk05rzqoe4b6ggizy&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" >
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2aman-0x/2aman-0x/output/github-snake-dark.svg" />
