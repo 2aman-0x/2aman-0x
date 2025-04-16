@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon&size=15&pause=1000&color=F7F7F7&background=FFFFFF00&vCenter=true&lines=Hello+there+😅!!!)](https://git.io/typing-svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2aman-0x/2aman-0x/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2aman-0x/2aman-0x/output/github-snake.svg" />
