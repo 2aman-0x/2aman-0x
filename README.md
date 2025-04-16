@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&pause=1000&color=06E909&background=000000&vCenter=true&width=435&lines=hello+there+%F0%9F%98%85!!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=15&pause=1000&color=06E909&background=000000&vCenter=true&width=435&lines=hello+there+%F0%9F%98%85!!!!)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2aman-0x/2aman-0x/output/github-snake-dark.svg" />
