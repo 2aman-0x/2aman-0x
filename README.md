@@ -1,6 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=15&pause=1000&color=06E909&background=000000&vCenter=true&width=435&lines=hello+there+%F0%9F%98%85!!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=15&pause=1000&color=06E909&background=000000&vCenter=true&width=1000&lines=hello+there+%F0%9F%98%85!!!!)](https://git.io/typing-svg)
 
-<img src="giphy.gif" alt="Power" width="600" />
+---
+![](https://github-profile-trophy.vercel.app/?username=2aman-0x&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+<img src="giphy.gif" alt="goku&vegeta" width="80%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2aman-0x/2aman-0x/output/github-snake-dark.svg" />
@@ -9,7 +14,7 @@
 </picture>
 
 
-![](https://github-profile-trophy.vercel.app/?username=2aman-0x&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
  
 ---
 
