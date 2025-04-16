@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=15&pause=1000&color=06E909&background=000000&vCenter=true&width=1000&lines=hello+there+%F0%9F%98%85!!!!)](https://git.io/typing-svg)
-
 ---
+
 ![](https://github-profile-trophy.vercel.app/?username=2aman-0x&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ---
