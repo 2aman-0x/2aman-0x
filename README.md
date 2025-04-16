@@ -14,8 +14,8 @@
 ---
 
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=2aman-0x&show_icons=true&theme=chartreuse-dark&line_height=15" />
+<img width="600" src="https://github-readme-stats.vercel.app/api?username=2aman-0x&show_icons=true&theme=chartreuse-dark&line_height=15" />
 
-<img width="60%" src="https://streak-stats.demolab.com?user=2aman-0x&theme=highcontrast&border_radius=4.5">
+<img width="600" src="https://streak-stats.demolab.com?user=2aman-0x&theme=highcontrast&border_radius=4.5">
 
 ---
