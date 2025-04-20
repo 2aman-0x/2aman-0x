@@ -1,3 +1,4 @@
+```
 ---
 
 ![](https://github-profile-trophy.vercel.app/?username=2aman-0x&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
@@ -23,3 +24,5 @@
 <img width="100%" src="https://streak-stats.demolab.com?user=2aman-0x&theme=highcontrast&border_radius=4.5">
 
 ---
+
+```
