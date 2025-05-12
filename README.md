@@ -1,9 +1,4 @@
 
-<audio controls autoplay loop>
-  <source src="ClashOfGods-UltraInstinct.mp3" type="audio/mpeg">
-  Clash of Gods
-</audio>
-
 
 ---
 
