@@ -1,7 +1,7 @@
 
 <audio controls autoplay loop>
-  <source src="Clash Of Gods- Ultra Instinct.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
+  <source src="ClashOfGods-UltraInstinct.mp3" type="audio/mpeg">
+  Clash of Gods
 </audio>
 
 
