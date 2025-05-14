@@ -1,12 +1,13 @@
-
-
----
-
 ![](https://github-profile-trophy.vercel.app/?username=2aman-0x&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 <img src="giphy.gif" alt="goku&vegeta" width="100%" />
+
+
+[![](https://github-readme-activity-graph.vercel.app/graph?username=2aman-0x&theme=github-compact)](https://github.com/2aman-0x/github-readme-activity-graph)
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2aman-0x/2aman-0x/output/github-snake-dark.svg" />
@@ -15,12 +16,10 @@
 </picture>
 
 
+---
 
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=2aman-0x&show_icons=true&theme=chartreuse-dark&line_height=15" />
  
 ---
 
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=2aman-0x&show_icons=true&theme=chartreuse-dark&line_height=15" />
-
----
 
