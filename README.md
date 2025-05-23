@@ -1,4 +1,4 @@
-<img src="https://github.com/2aman-0x/2aman-0x/blob/main/giphy.gif">
+<img src="https://github.com/2aman-0x/2aman-0x/blob/main/giphy.gif" width=100%>
 
 ![](https://github-profile-trophy.vercel.app/?username=2aman-0x&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
