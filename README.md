@@ -1,4 +1,4 @@
----
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2aman-0x/2aman-0x/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2aman-0x/2aman-0x/output/github-snake.svg" />
